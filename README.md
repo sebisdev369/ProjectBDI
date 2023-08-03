@@ -1,2 +1,2 @@
 # ProjectBDI
-Replicar metodología de BDI 
+Replicar metodología de Git
